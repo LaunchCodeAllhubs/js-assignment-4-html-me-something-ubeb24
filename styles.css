@@ -1,1 +1,33 @@
 /* Write your CSS here! */
+body {
+    background-color: #fffacd;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:8px;
+    display: block;
+}
+#mainHeading {
+    color:red
+}
+header {
+    margin: 50px 25px 20px 100px;
+}
+section {
+    width: 1000px;
+    padding: 12px 25px 35px 50px
+}
+article {
+    margin: 25px 25px 20px 100px;
+}
+.funParagraph {
+    color:green
+}
+footer{
+    margin: 25px 0px 0px 40px;
+}
+figcaption{
+font-size: 12px
+}
+
+img { 
+    max-width: 100%; 
+    height: auto; }
